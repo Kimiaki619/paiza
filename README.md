@@ -11,3 +11,7 @@
 ## A024:アイテムの分け前
 ### [Result code](https://github.com/dadoczek/paiza/blob/main/A024/result.cs)
 ### [Address URL](https://paiza.jp/challenges/share/POL55ULf_7qiU8i6P0pcKYvoj56eHVaT2LguQp-JMgk?source=social)
+
+## A021:海岸線
+### [Result code](https://github.com/dadoczek/paiza/blob/main/A021/result.cs)
+### [Address URL](https://paiza.jp/challenges/share/BPbCeNGku9bVKSnoQVjO42vB4HEZuKB_sk-ktizJbWc?campaign=104&source=social)
